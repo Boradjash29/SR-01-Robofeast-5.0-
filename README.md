@@ -100,14 +100,4 @@ The robot uses a **4-wheel independent swerve drive**, advanced **sensor fusion*
 This project was **submitted for the Ideation Stage** of **Robofest Gujarat 5.0** under the senior category.  
 Despite meeting all technical and documentation requirements, **Team SR-01 was not selected in Stage 1** due to **organizational selection constraints from the Robofest committee**, not because of any issue from our side.
 
----
 
-## 🧭 Future Work
-- Integration of **stereo vision-based SLAM**  
-- Implementation of **AI terrain classification**  
-- Upgrade to **ROS2 Galactic + multi-sensor fusion**  
-- Participation in **IGVC (International Ground Vehicle Competition) 2026**
-
----
-
-## 🗂️ Repository Structure
